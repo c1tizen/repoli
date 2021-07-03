@@ -8,3 +8,18 @@
 or
 
 `<script scr="https://rawcdn.githack.com/c1tizen/repoli/main/index.js"><script/>`
+
+# Usage
+
+```
+// import repoli to your javascript file
+const repoli = require("repoli");
+
+// use repoli like so:
+// repoli(1,2,3)
+    1 - ID of div where HTML of repos will appear
+    2 - GitHub username of profile with repos
+    3 - Simple CSS styling (default: true)
+
+repoli("repoli-div", "c1tizen", true);
+```
