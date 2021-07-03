@@ -23,3 +23,5 @@ const repoli = require("repoli");
 
 repoli("repoli-div", "c1tizen", true);
 ```
+
+![repoli demo](https://i.imgur.com/tdR6bJ0.png)
