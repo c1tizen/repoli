@@ -5,10 +5,6 @@
 
 `npm i repoli --save`
 
-or
-
-`<script scr="https://rawcdn.githack.com/c1tizen/repoli/main/index.js"><script/>`
-
 # Usage
 
 ```
