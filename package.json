@@ -1,0 +1,28 @@
+{
+  "name": "repoli",
+  "version": "1.0.0",
+  "description": "list repositories of a github profile with customization",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/c1tizen/repoli.git"
+  },
+  "keywords": [
+    "repoli",
+    "list",
+    "repos",
+    "repo",
+    "repository",
+    "github",
+    "javascript"
+  ],
+  "author": "c1tizen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/c1tizen/repoli/issues"
+  },
+  "homepage": "https://github.com/c1tizen/repoli#readme"
+}
